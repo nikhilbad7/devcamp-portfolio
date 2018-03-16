@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/nikhilbad7/badani_view_tool
+  revision: e9ec115c2548a6d99779117d6e36502d9d2da800
+  specs:
+    badani_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -190,6 +196,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  badani_view_tool!
   bootstrap (~> 4.0.0.alpha6)
   byebug
   coffee-rails (~> 4.2)
