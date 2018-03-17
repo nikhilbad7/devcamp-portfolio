@@ -56,3 +56,4 @@ gem 'friendly_id', '~> 5.1.0'
 gem 'devise', '~> 4.4', '>= 4.4.1'
 gem 'bootstrap', '~> 4.0.0.alpha6'
 gem 'badani_view_tool', git: "https://github.com/nikhilbad7/badani_view_tool"
+gem 'petergate', '~> 1.8', '>= 1.8.1'
